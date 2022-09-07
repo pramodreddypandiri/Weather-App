@@ -1,0 +1,7 @@
+
+body{
+    background-image: linear-gradient(180deg,#0396A6,#9CD3D8);
+}
+.temperature-degree {
+    font-size: 70px;
+}
